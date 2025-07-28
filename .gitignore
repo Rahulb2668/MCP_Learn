@@ -1,0 +1,33 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*
+
+# VSCode settings
+.vscode/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Misc
+*.log
+*.tmp
+
+# Ignore data files if needed
+src/data/users.json
+build/data/users.json
