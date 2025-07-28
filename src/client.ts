@@ -10,7 +10,7 @@ import {
 import { generateText, jsonSchema, ToolSet } from "ai";
 
 const google = createGoogleGenerativeAI({
-  apiKey: "AIzaSyCemWnF7vNZqVWKydkPsxR732ATjgsKrD4",
+  apiKey: process.env.key,
 });
 
 const mcp = new Client({
