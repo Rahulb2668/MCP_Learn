@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "email": "alice@test.com",
+    "address": "123 Maple St, Springfield, IL",
+    "phone": "555-1234"
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "email": "bob@test.com",
+    "address": "456 Oak St, Springfield, IL",
+    "phone": "555-5678"
+  },
+  {
+    "id": 3,
+    "name": "rear",
+    "email": "res@res.com",
+    "address": "ojlkjasdkjasldkj",
+    "phone": "kjkajlksdjlaksdasd"
+  },
+  {
+    "id": 4,
+    "name": "Sample User",
+    "email": "sample.user@example.com",
+    "address": "123 Main St, Sample City",
+    "phone": "123-456-7890"
+  },
+  {
+    "id": 5,
+    "name": "Naveena",
+    "email": "naveena.singh@example.com",
+    "address": "456 Park Avenue, Metropolis",
+    "phone": "555-234-5678"
+  },
+  {
+    "id": 6,
+    "name": "Jessica Ramirez",
+    "email": "jessica.ramirez82@gmail.com",
+    "address": "1842 Willowbrook Lane, Austin, TX 78741",
+    "phone": "(512) 555-3472"
+  },
+  {
+    "id": 7,
+    "name": "Jessica M. Carter",
+    "email": "jessica.carter82@gmail.com",
+    "address": "1842 Willowbrook Lane, Apt 5B, Columbus, OH 43215",
+    "phone": "(614) 555-2378"
+  },
+  {
+    "id": 8,
+    "name": "Rahul",
+    "email": "rahul.b@gmail.com",
+    "address": "Something ",
+    "phone": "0569529506"
+  },
+  {
+    "id": 9,
+    "name": "thankappan",
+    "email": "takkan@tkada.com",
+    "address": "dummy",
+    "phone": "123-456-7890"
+  },
+  {
+    "id": 10,
+    "name": "Jessica M. Turner",
+    "email": "jessica.turner82@gmail.com",
+    "address": "1842 Willowbrook Lane, Apt 5B, Columbus, OH 43215",
+    "phone": "(614) 555-2378"
+  }
+]

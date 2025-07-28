@@ -29,5 +29,4 @@ Thumbs.db
 *.tmp
 
 # Ignore data files if needed
-src/data/users.json
 build/data/users.json
